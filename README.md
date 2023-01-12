@@ -1,11 +1,6 @@
 # Dash Invitations Manager App
 
-## Project Description
-
-A Flutter Project to help dash invite his friends easy
-
-## Table of Contents
-
+A Flutter Project that help dash invite her friends easy, this project submmitted as a part of Flutter Festival-2022 Challenge in KSA 
 
 ## How to start?
 
